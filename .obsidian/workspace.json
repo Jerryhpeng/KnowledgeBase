@@ -11,10 +11,26 @@
             "id": "3616f8937d6250dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NVMe/Note/NVMe Admin 引擎开发.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "NVMe Admin 引擎开发"
+            }
+          },
+          {
+            "id": "d92826ab50f00dd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NVMe/Spec/NVM-Express-1_3d-2019.03.20-Ratified.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NVM-Express-1_3d-2019.03.20-Ratified"
             }
           }
         ]
@@ -165,13 +181,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "a104d0ae13e4e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,17 +213,22 @@
   },
   "active": "3616f8937d6250dc",
   "lastOpenFiles": [
+    "NVMe/Spec/NVM-Express-1_3d-2019.03.20-Ratified.pdf",
+    "NVMe/Note/NVMe Admin 引擎开发.md",
+    "Pasted image 20261029213325.png",
+    "GT/Spec/ug476_7Series_Transceivers.pdf",
+    "Ethernet/10G/XilinxSpec",
+    "Ethernet/100G",
+    "Ethernet/40G",
+    "Ethernet/1G",
+    "Ethernet/10G",
+    "未命名",
+    "Ethernet",
+    "GT/Spec/ug578-ultrascale-gty-transceivers.pdf",
+    "JESD204/JESD204参数.md",
+    "未命名.md",
     "JESD204协议/JESD204参数.md",
     "JESD204协议/Spec/JESD204参数.md",
-    "JESD204协议/Spec",
-    "JESD204协议/Spec理解/JESD204参数.md",
-    "JESD204协议/Spec理解",
-    "JESD204协议/新建文件夹",
-    "未命名.base",
-    "JESD204协议 1",
-    "GT收发器",
-    "NVMe协议",
-    "PCIe协议",
-    "JESD204协议"
+    "JESD204协议/Spec理解/JESD204参数.md"
   ]
 }
